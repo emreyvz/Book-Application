@@ -1,6 +1,6 @@
 # Book Application
 
-
+![img](resim.png)
 
 
 ### An application for book reading, voting and recommending
@@ -22,7 +22,7 @@
 
 ##### Screenshot:
 
-![img](resim.png)
+
 
 
 
