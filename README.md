@@ -3,11 +3,11 @@
 ![img](resim.png)
 
 
-### An application for book reading, voting and recommending
+## An application for book reading, voting and recommending
 
 
 
-##### Features:
+### Features:
 
   - Add / Delete Book
   
@@ -18,9 +18,6 @@
   - Book Recommendation using User Based Collaborative Filtering algorithm
   
   - Popular , Newest and Best Books Sections
-  
-
-##### Screenshot:
 
 
 
