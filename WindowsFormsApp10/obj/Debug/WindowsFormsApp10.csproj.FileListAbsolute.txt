@@ -1,0 +1,46 @@
+c:\users\emre yavuz\documents\visual studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+c:\users\emre yavuz\documents\visual studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.Cache
+c:\users\emre yavuz\documents\visual studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.kitap_formu.resources
+c:\users\emre yavuz\documents\visual studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.giris_formu.resources
+c:\users\emre yavuz\documents\visual studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.kayit_formu.resources
+c:\users\emre yavuz\documents\visual studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.admin_formu.resources
+C:\Users\Emre Yavuz\documents\visual studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.oylama_formu.resources
+C:\Users\Emre Yavuz\documents\visual studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.kitap_sec_formu.resources
+C:\Users\Emre Yavuz\documents\visual studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\MySql.Data.dll
+C:\Users\Emre Yavuz\documents\visual studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\Google.Protobuf.dll
+C:\Users\Emre Yavuz\documents\visual studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\MySql.Data.xml
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.okuma_formu.resources
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\itextsharp.dll
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\itextsharp.xml
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\Kitap Okuma Yazılımı.exe.config
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\Kitap Okuma Yazılımı.exe
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\Kitap Okuma Yazılımı.pdb
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\Kitap Okuma Yazılımı.exe
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\Kitap Okuma Yazılımı.pdb
+C:\Users\Emre Yavuz\documents\visual studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.kitap_onerileri_formu.resources
+C:\Users\Emre Yavuz\documents\visual studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojAssemblyReference.cache
+C:\Users\Emre Yavuz\documents\visual studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\Emre Yavuz\documents\visual studio 2017\Projects\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CopyComplete
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\bin\Debug\Kitap Okuma Yazılımı.exe.config
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\bin\Debug\Kitap Okuma Yazılımı.exe
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\bin\Debug\Kitap Okuma Yazılımı.pdb
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\bin\Debug\itextsharp.dll
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\bin\Debug\MySql.Data.dll
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\bin\Debug\Google.Protobuf.dll
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\bin\Debug\itextsharp.xml
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\bin\Debug\MySql.Data.xml
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojAssemblyReference.cache
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.kitap_formu.resources
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.giris_formu.resources
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.kayit_formu.resources
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.admin_formu.resources
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.oylama_formu.resources
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.kitap_sec_formu.resources
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.okuma_formu.resources
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.kitap_onerileri_formu.resources
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CopyComplete
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\obj\Debug\Kitap Okuma Yazılımı.exe
+C:\Users\Emre Yavuz\Documents\Visual Studio 2017\Projects\Yazlab I\WindowsFormsApp10\obj\Debug\Kitap Okuma Yazılımı.pdb
