@@ -13,7 +13,7 @@
   
   - Login & Signup System
   
-  - Read book by clicking image of image
+  - Read book by clicking image of book
   
   - Book Recommendation using User Based Collaborative Filtering algorithm
   
